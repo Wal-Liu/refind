@@ -1,0 +1,26 @@
+#############################
+##Linux dualboot setting up##
+#############################
+
+*Wrong time zone in window: 
+timedatectl set-local-rtc 1
+
+*App
+    -Git:
+	sudo apt install git
+    -Gnome extensions and tweak:
+	sudo apt install gnome-tweaks
+	sudo apt install gnome-shell-extensions
+    -Neofetch:
+	sudo apt install neofetch
+    -Unikey typing:
+	sudo apt install ibus-unikey
+    -VSCode:
+	sudo apt install code
+*gnome extensions
+	+Blur My Shell
+	+Coverflow alt-tab
+	+Burn my shell
+	+Vitals
+	+Clipboard Indicator
+
