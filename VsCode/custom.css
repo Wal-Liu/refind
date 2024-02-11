@@ -1,0 +1,40 @@
+/*phần ghi chú*/
+.mtk3{
+      font-family: "Space Mono";
+      font-size: 105%;
+      font-style: italic;
+      color: #5a5f49;
+}
+
+/*phần số */
+.mtk5 {
+      color: #D1866C;
+}
+
+/* vector */
+.mtk6 {
+      color: #BDB5B3;
+}
+
+/* chữ viết */
+.mtk4{
+      color: #48d799;
+}
+/* bits */
+.mtk1{
+      color: #369864;
+}
+/* void main */
+/* .mtk9{
+      color: #FFCE54;
+}
+ */
+
+.monaco-editor .ced-1-TextEditorDecorationType8-4::after {
+      font-style: normal;
+      font-weight: normal;
+      text-decoration: none;
+      border-radius: 3px;
+      margin: 10px 0px 0px 4ch;
+      color: rgb(207, 102, 121) !important;
+}
